@@ -25,5 +25,7 @@ que no da un mensaje de si o no, para usar la aplicacion debes hacer una pregunt
 para ejecutar el programa
 
 git clone https://github.com/3p1c0s3nd/PreguntayRespondeYesoNo
+
 cd PreguntayRespondeYesoNo
+
 flutter run --> asegurate antes de ejecutar este comando tener tu emulador ya en ejecucion

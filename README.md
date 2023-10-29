@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-Este es una aplicacion simple que se puede compilar para ios o android, su funcionamiento es conectarse a una api en linea llamada https://yesno.wtf/
+Este es una aplicacion simple que se puede compilar para ios, android y windows, su funcionamiento es conectarse a una api en linea llamada https://yesno.wtf/
 que no da un mensaje de si o no, para usar la aplicacion debes hacer una pregunta y la aplicacion te contestara con si o no y una imagen
 
 
